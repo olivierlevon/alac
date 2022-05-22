@@ -1,0 +1,29 @@
+
+# Compiled Object files
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.dll
+
+
+# Compiled Static libraries
+*.lib
+
+# Executables
+*.exe
+
+packages
+.vs
+Debug
+Release
+x64
+
+
+*.aps
+*.bak
+
+*.vcxproj.user
